@@ -1,0 +1,1 @@
+В классе VertexDeleter метод для удаления вершин deleteVertices, в который передаются модель и удаляемые вершины. В Main есть метод, в который можно передать название модели из папки 3DModels\SimpleModelsForReaderTests\ и удаляемые вершины и она сохраняет изменённую модель в 3DModels\SimpleModelsForReaderTests\. Есть тесты.  
